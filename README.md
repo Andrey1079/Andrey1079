@@ -14,7 +14,7 @@
 
 <table align="center">
   <tr>
-    <td><h3 style="width: 300">Мой стек:</h3></td>
+    <td style="width: 300"><h3 >Мой стек:</h3></td>
     <td style="width: 300">Мои проекты</td>
   </tr>
   <tr>
