@@ -1,4 +1,4 @@
-<h2 align="center" border="none">Всем привет!👋 </h2>
+<h2 align="center" border="1px solid red">Всем привет!👋 </h2>
 <h1 align="center"> Меня зовут Андрей Дунаев.</h1>
 <h2 align="center">Я ищу работу Front-end разработчика</h2>
 
