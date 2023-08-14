@@ -52,7 +52,6 @@
             <li><a href="https://github.com/Andrey1079/express-mesto-gha">Репозиторий проекта</a></li>
           </ul>
           </li>
-         <br>
         <li>Mesto на React <br>
           <ul>
             <li><a href="https://andrey1079.github.io/react-mesto-auth/">Cтраница</a></li>
@@ -74,7 +73,7 @@
          <li>Проект Научиться учиться <br>
           <ul>
            <li><a href="https://andrey1079.github.io/how-to-learn/">Cтраница</a></li>
-            <li><a href="https://github.com/Andrey1079/how-to-learn">Репозиторий проекта </a></li>
+           <li><a href="https://github.com/Andrey1079/how-to-learn">Репозиторий проекта </a></li>
           </ul>
         </li>
         </ul>
