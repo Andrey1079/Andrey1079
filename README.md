@@ -12,24 +12,25 @@
   <li>😀 Позитивный и жизнерадостный человек</li>
 </ul>
 
-<table style="width:100">
-<tr>
-<td><h3>Мой стек:</h3>
-</td>
-<td>Мои проекты</td>
-
-</tr>
-<tr>
-<td><ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>React</li>
-  <li>RestApi</li>
-  <li>Node.js</li>
-  <li>Webpack</li>
-  <li>Git</li>
-</ul></td>
-<td></td>
-</tr>
+<table align="center">
+  <tr>
+    <td><h3 style="width: 300px">Мой стек:</h3></td>
+    <td style="width: 300px">Мои проекты</td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>RestApi</li>
+        <li>Node.js</li>
+        <li>Webpack</li>
+        <li>Git</li>
+      </ul>
+    </td>
+    <td></td>
+  </tr>
 </table>
+
