@@ -12,7 +12,7 @@
   <li>😀 Позитивный и жизнерадостный человек</li>
 </ul>
 
-<table style = "width:1080" align="center">
+<table style = "width:auto" align="center">
   <tr>
     <td style="width: 300"><h3 >Мой стек</h3></td>
     <td style="width: 300"><h3 >Мои проекты</h3></td>
@@ -33,10 +33,3 @@
     <td></td>
   </tr>
 </table>
-
- 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1    | Cell 2   | Cell 3   |
-| Row 2    | Cell 5   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   ||
