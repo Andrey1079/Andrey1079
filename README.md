@@ -48,7 +48,7 @@
       <ul>
         <li>Бэкенд для проета Mesto на Node.js <br>
           <ul align="top">
-            <li><a target="blank" href="https://github.com/Andrey1079/express-mesto-gha">Репозиторий проекта</a></li>
+            <li><a target="_blank" href="https://github.com/Andrey1079/express-mesto-gha">Репозиторий проекта</a></li>
           </ul>
           </li>
          <br>
