@@ -1,6 +1,7 @@
-<h1 align="center">Всем привет!👋 </h1>
-  <h1 align="center"> Меня зовут Андрей, и я ищу работу начинающим Front-end разработчиком</h1>
-### Hi there 👋
+<h2 align="center">Всем привет!👋 </h2>
+  <h1 align="center"> Меня зовут Андрей Дунаев.</h1>
+  <h2 allign= "center>Я ищу работу начинающим Front-end разработчиком</h2>
+
 
 <!--
 **Andrey1079/Andrey1079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
