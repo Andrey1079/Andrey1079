@@ -12,10 +12,10 @@
   <li>😀 Позитивный и жизнерадостный человек</li>
 </ul>
 
-<table align="center">
+<table style = "width:1080" align="center">
   <tr>
     <td style="width: 300"><h3 >Мой стек</h3></td>
-    <td style="width: 300"><h3 >Мои проекты:</h3></td>
+    <td style="width: 300"><h3 >Мои проекты</h3></td>
   </tr>
   <tr>
     <td>
