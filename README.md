@@ -47,18 +47,18 @@
     </td>
     <td>
       <ul>
-        <li>Бэкенд для проета Mesto на Node.js <br>
+        <li>Бэкенд для проета "Mesto" на Node.js <br>
           <ul align="top">
             <li><a href="https://github.com/Andrey1079/express-mesto-gha">Репозиторий проекта</a></li>
           </ul>
           </li>
-        <li>Mesto на React <br>
+        <li>Фронтенд проекта"Mesto" на React <br>
           <ul>
             <li><a href="https://andrey1079.github.io/react-mesto-auth/">Cтраница</a></li>
             <li> <a href="https://github.com/Andrey1079/react-mesto-auth">Репозиторий проекта </a></li>
           </ul>
         </li>
-          <li>Mesto на нативном JS в парадигме ООП<br>
+          <li>Фронтенд проекта"Mesto" на нативном JS в парадигме ООП<br>
           <ul>
             <li><a href="https://andrey1079.github.io/mesto/">Cтраница</a></li>
             <li> <a href="https://github.com/Andrey1079/mesto">Репозиторий проекта </a></li>
