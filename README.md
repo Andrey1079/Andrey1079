@@ -73,7 +73,7 @@
         </li>
          <li>Проект Научиться учиться <br>
           <ul>
-            <li><a href="https://andrey1079.github.io/how-to-learn/</a></li>
+            <li><a href="https://andrey1079.github.io/how-to-learn/</a>Страница</li>
             <li> <a href="https://github.com/Andrey1079/how-to-learn">Репозиторий проекта </a></li>
           </ul>
         </li>
