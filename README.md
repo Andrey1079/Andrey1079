@@ -1,4 +1,4 @@
-<h1 align="center" border="0">Всем привет!👋 </h1>
+<h1  style= "align:center" >Всем привет!👋 </h1>
 
 <h3>Факты обо мне:</h3>
 <ul>
@@ -12,7 +12,9 @@
   <li>😀 Позитивный и жизнерадостный человек</li>
 </ul>
 
-<h3>Мой стек:</h3>
+<table>
+<tr>
+<td><h3>Мой стек:</h3>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
@@ -22,19 +24,11 @@
   <li>Node.js</li>
   <li>Webpack</li>
   <li>Git</li>
-</ul>
+</ul></td>
+<td>Мои проекты</td>
 
-<!--
-**Andrey1079/Andrey1079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>
