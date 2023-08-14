@@ -70,6 +70,12 @@
             <li> <a href="https://github.com/Andrey1079/russian-travel">Репозиторий проекта </a></li>
           </ul>
         </li>
+         <li>Проект Научиться учиться <br>
+          <ul>
+            <li><a href="https://andrey1079.github.io/how-to-learn/</a></li>
+            <li> <a href="https://github.com/Andrey1079/how-to-learn">Репозиторий проекта </a></li>
+          </ul>
+        </li>
         </ul>
     </td>
   </tr>
