@@ -12,7 +12,7 @@
   <li>😀 Позитивный и жизнерадостный человек</li>
 </ul>
 
-<table style = "width:100%; allign:center; margin: 0 200px">
+<table style = "width:100; allign:center; margin: 0 200">
 <tr>
 <td><h3>Мой стек:</h3>
 </td>
