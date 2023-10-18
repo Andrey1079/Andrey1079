@@ -26,6 +26,7 @@
           <li>Кроссбраузерная верстка</li>
         </ul>
         </li>
+        <li>PUG</li>
         <li>CSS3
          <ul>
           <li>Flex</li>
@@ -35,6 +36,7 @@
           <li>Резиновая верстка</li>
           <li>Pixel perfect</li>
         </ul>
+          <li>SCSS</li>
         </li>
         <li>JavaScript</li>
         <li>React</li>
