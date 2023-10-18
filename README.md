@@ -49,7 +49,7 @@
     </td>
     <td>
       <ul>
-        <li>Задания на стажировке в [Only](https://onlydigital.ru/taplink)<br>
+        <li>Задания на стажировке в [Андрей Дунаев](https://github.com/Andrey1079)<br>
           Задания разделены по веткам : task-1 - task-6<br>
           <ul align="top">
             <li><a href="https://github.com/Andrey1079/internship-tasks">Репозиторий проекта</a></li>
