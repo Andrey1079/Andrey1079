@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>
-      <ul>
+      <ul align="top">
         <li>HTML5
         <ul>
           <li>Семантическая верстка</li>
