@@ -49,13 +49,13 @@
     </td>
     <td>
       <ul>
-        <li>Задания на стажировке в [Андрей Дунаев](https://github.com/Andrey1079)<br>
+        <li>Задания на стажировке в <a href="https://onlydigital.ru/taplink">Only</a><br>
           Задания разделены по веткам : task-1 - task-6<br>
           <ul align="top">
             <li><a href="https://github.com/Andrey1079/internship-tasks">Репозиторий проекта</a></li>
           </ul>
         </li>
-        <li>Тестовое задание для [Only](https://onlydigital.ru/taplink) <br>
+        <li>Тестовое задание для <a href="https://onlydigital.ru/taplink">Only</a> <br>
           <ul align="top">
             <li><a href="https://github.com/Andrey1079/test-task-for-Only">Репозиторий проекта</a></li>
             <li><a href="https://andrey1079.github.io/test-task-for-Only/">Страница</a></li>
