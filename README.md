@@ -49,37 +49,27 @@
     </td>
     <td>
       <ul>
-<li>Задания на стажировке в [Only](https://onlydigital.ru/taplink)<br>
-  Задания разделены по веткам : task-1 - task-6 <br>
+        <li>Задания на стажировке в [Only](https://onlydigital.ru/taplink) Задания разделены по веткам : task-1 - task-6<br>
           <ul align="top">
             <li><a href="https://github.com/Andrey1079/internship-tasks">Репозиторий проекта</a></li>
           </ul>
-          </li>
-
-      
-
-      <li>Тестовое задание для [Only](https://onlydigital.ru/taplink) <br>
+        </li>
+        <li>Тестовое задание для [Only](https://onlydigital.ru/taplink) <br>
           <ul align="top">
             <li><a href="https://github.com/Andrey1079/test-task-for-Only">Репозиторий проекта</a></li>
             <li><a href="https://andrey1079.github.io/test-task-for-Only/">Страница</a></li>
           </ul>
-          </li>
-
-<li>Фронтенд для дипломного проекта "Movie-explorer" на React <br>
+        </li>
+        <li>Фронтенд для дипломного проекта "Movie-explorer" на React <br>
           <ul align="top">
             <li><a href="https://github.com/Andrey1079/movies-explorer-frontend">Репозиторий проекта</a></li>
           </ul>
-          </li>
-
-        
-<li>Бэкенд для дипломного проекта "Movie-explorer" на Node.js <br>
+        </li>
+        <li>Бэкенд для дипломного проекта "Movie-explorer" на Node.js <br>
           <ul align="top">
             <li><a href="https://github.com/Andrey1079/movies-explorer-api">Репозиторий проекта</a></li>
           </ul>
-          </li>
-
-      
-        
+        </li>
         <li>Бэкенд для проета "Mesto" на Node.js <br>
           <ul align="top">
             <li><a href="https://github.com/Andrey1079/express-mesto-gha">Репозиторий проекта</a></li>
