@@ -50,7 +50,7 @@
 
 ### Контакты:
 <ul>
-  <li> email: dunayev.andey@gmail.com"</li>
+  <li> email: dunayev.andey@gmail.com</li>
   <li>tg: @Andrew_Dunaev</li>
 </ul>
  <hr/>
