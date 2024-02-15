@@ -20,7 +20,7 @@
 
 ### Мои проекты
 #### Платформа для объединения волонтеров
-- [Репозиторий](https://github.com/volunteers-for-city-projects/volunteers-frontend/tree/develop)
+- [Репозиторий проекта](https://github.com/volunteers-for-city-projects/volunteers-frontend/tree/develop)
 #### Тестовое задание для <a href="https://onlydigital.ru/taplink">Only</a>
 - [Репозиторий проекта](https://github.com/Andrey1079/test-task-for-Only)
 - [Страница](https://andrey1079.github.io/test-task-for-Only/)
